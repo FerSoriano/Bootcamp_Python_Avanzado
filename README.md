@@ -1,0 +1,16 @@
+# Repaso y Actualización de diferentes topicos en Python 🐍:
+- Codigo Pythonico
+- Estructuras de Datos:
+  - Stack
+  - Queues
+  - Arboles
+  - Listas enlazadas
+- Algorimos:
+  - QuickSort
+  - Djkstra
+  - BST (Binary Search Tree)
+  - K-means
+- Decoradores
+- Programación Funcional
+- Unit Tests
+- Programación concurrente y asincrona
