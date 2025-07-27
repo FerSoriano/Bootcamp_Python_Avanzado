@@ -39,3 +39,7 @@ with write_on_log_error():
 
 with write_on_log_error():
     file = open('test.txt')
+
+
+username: str = 'Fer'
+format: bool = True
